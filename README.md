@@ -5,3 +5,5 @@
 Para iniciar la aplicacion ejecutar 
 
 ```pip install python3  ```
+
+Version 2
